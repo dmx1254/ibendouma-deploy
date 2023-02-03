@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73dc8593.css",
+    "main.js": "/static/js/main.fb637563.js",
+    "static/media/ibendouma-logo.png": "/static/media/ibendouma-logo.219b07c5ed5922cb8938.png",
+    "static/media/eng.png": "/static/media/eng.bb766130bf3c90f2b2eb.png",
+    "static/media/fre.png": "/static/media/fre.c644f00f921b1721e42b.png",
+    "static/media/esp.png": "/static/media/esp.f1d7a01a5e245be01638.png",
+    "static/media/empty.webp": "/static/media/empty.a5c7b84033f220792141.webp",
+    "static/media/crypto.webp": "/static/media/crypto.5f227b72ccace59d1a06.webp",
+    "static/media/cryptoapi.webp": "/static/media/cryptoapi.2aa4f129421bfbb3da43.webp",
+    "static/media/usdt.webp": "/static/media/usdt.6be4b69273b45bd20d67.webp",
+    "index.html": "/index.html",
+    "static/media/giropay.webp": "/static/media/giropay.e7d96316f315b9858b14.webp",
+    "static/media/visa.webp": "/static/media/visa.2dee52c7fdff5684db0b.webp",
+    "static/media/paysafecard.webp": "/static/media/paysafecard.82e7a62ef49f8c7b036f.webp",
+    "static/media/skrill.webp": "/static/media/skrill.d38e8f5c564e5f1608cb.webp",
+    "static/media/neosurf.webp": "/static/media/neosurf.6e03705d06710b9433de.webp",
+    "static/media/ideal.webp": "/static/media/ideal.e770e54ec77a3b78a0e2.webp",
+    "static/media/bancontact.webp": "/static/media/bancontact.e2d7f89cf17e4d52a9cf.webp",
+    "static/media/en.webp": "/static/media/en.6c181e90aff4554a9e78.webp",
+    "static/media/mastercard.webp": "/static/media/mastercard.7c68e0d0aca00667f91a.webp",
+    "static/media/fr.webp": "/static/media/fr.fb936e59b60ba3f27091.webp",
+    "static/media/ads.txt": "/static/media/ads.3c78b6180415ce9e4a11.txt",
+    "main.73dc8593.css.map": "/static/css/main.73dc8593.css.map",
+    "main.fb637563.js.map": "/static/js/main.fb637563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73dc8593.css",
+    "static/js/main.fb637563.js"
+  ]
+}
